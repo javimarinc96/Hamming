@@ -1,3 +1,4 @@
+![hamming](https://user-images.githubusercontent.com/44240533/222983589-8cf505f2-5390-47b1-b8ea-1f7939ad3828.svg)
 # Hamming
 
 Welcome to Hamming on Exercism's Java Track.
